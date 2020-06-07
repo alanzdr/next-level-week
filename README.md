@@ -12,7 +12,7 @@ Objective is to learn new tools, learn about new technologies and discover hacks
 There are 5 days of a lot of code and learning, from the backend to the mobile, focusing on the technologies used by the largest startups in the world.
 
 <p align="center">
-  <img src="assets/cover.jpg" width="800" alt="Smart 8">
+  <img src="assets/cover.jpg" width="800" alt="Next Level Week #01 cover">
 </p>
 
 ### What has been learned
